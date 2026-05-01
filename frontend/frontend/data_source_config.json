@@ -1,0 +1,30 @@
+{
+    "realtime_source": "mt5",
+    "historical_source": "yfinance",
+    "ninja_exchange_dir": "C:\\QuantumGAN\\Exchange",
+    "mt5_host": "localhost",
+    "mt5_port": 8002,
+    "symbol_mappings": {
+        "MNQ": {
+            "yfinance": "MNQ=F",
+            "ninjatrader": "MNQ MAR26",
+            "mt5": "MNQH26"
+        },
+        "MES": {
+            "yfinance": "MES=F",
+            "ninjatrader": "MES-MAR26",
+            "mt5": "MESH26"
+        },
+        "NQ": {
+            "yfinance": "NQ=F",
+            "ninjatrader": "NQ",
+            "mt5": "NQ"
+        },
+        "ES": {
+            "yfinance": "ES=F",
+            "ninjatrader": "ES",
+            "mt5": "ES"
+        }
+    },
+    "use_realtime_for_analysis": false
+}
