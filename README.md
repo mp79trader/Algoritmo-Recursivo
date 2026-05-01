@@ -15,7 +15,7 @@ Algoritmo recursivo de Transformada Rapida de Fourier (FFT) para predecir movimi
 - **Identificacion de ciclos**: Descubrimiento de patrones ciclicos dominantes
 - **Analisis comparativo**: Comparacion multiple de futuros
 - **Visualizaciones**: Graficos interactivos con lightweight-charts y Plotly
-- **GUI Moderna**: Interfaz web con React y Tailwind CSS
+- **GUI Moderna**: Interfaz web con React y Tailwind CSS 
 
 ## Simbolos Soportados
 
